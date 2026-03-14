@@ -27,7 +27,7 @@
 ```
 azure-no-auth-demo/
 ├── index.html       ← 公開するHTMLファイル
-└── og-image.png     ← OGP画像
+└── og-image.png     ← OGP画像　※必要な場合
 ```
 
 認証をかけたい場合は、ここに `staticwebapp.config.json` を追加するだけです。
